@@ -36,7 +36,3 @@ We are excited for people to add new models and features to Py-Feat. Please see 
 
 License
 Py-FEAT is provided under the MIT license. You also need to cite and respect the licenses of each model you are using. Please see the LICENSE file for links to each model’s license information.
-
-Next
-
-How to install Py-Feat
